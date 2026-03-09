@@ -9,7 +9,7 @@ Most of my work focuses on **indie game development, gameplay programming, and c
 
 ## 🎮 Current Projects
 
-### Pinfield
+### [Pinfield](https://github.com/nxrnt/pinfield-prototype)
 Physics-based Plinko game with incremental mechanics, economy systems, and a minimal casino-style UI.
 
 Currently in active development — implementing ball physics, drop mechanics, and a custom analytics 
@@ -20,8 +20,6 @@ Focus areas:
 - economy design & probability simulation
 - analytics tooling (custom Unity system)
 - minimal casino-style UI (white/orange palette)
-
-[repo](https://github.com/nxrnt/pinfield-prototype)
 
 ---
 
