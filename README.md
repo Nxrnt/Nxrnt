@@ -2,36 +2,41 @@
 
 🎮 Game developer • 🎬 Video editor • 💻 Junior developer  
 
-I'm a university student building games and experimenting with systems, mechanics, and atmosphere.  
+Game Design Graduate
 Most of my work focuses on **indie game development, gameplay programming, and creative tech projects**.
-
-Currently building projects with friends under the idea of an indie studio called **Ratking Studios**.
 
 ---
 
 ## 🎮 Current Projects
 
-### Shadow Burrow: The Verdant Dread
-Atmospheric Metroidvania focused on exploration, danger, and progression.
+### Pinfield
+Physics-based Plinko game with incremental mechanics, economy systems, and a minimal casino-style UI.
 
-Inspired by:
-- Hollow Knight
-- Ori and the Blind Forest
+Currently in active development — implementing ball physics, drop mechanics, and a custom analytics 
+system in Unity. Economy balancing tested via a Python probability simulator.
 
 Focus areas:
-- movement systems
-- exploration design
-- environmental storytelling
+- ball physics & procedural drop mechanics
+- economy design & probability simulation
+- analytics tooling (custom Unity system)
+- minimal casino-style UI (white/orange palette)
+
+[repo](https://github.com/nxrnt/pinfield-prototype)
 
 ---
 
-### Project Somna
-Puzzle platformer exploring sleepwalking, dreams, and science-induced sleep psychosis.
+### SOVARIEL
+Co-op space survival horror built with Ratking Studios.
+
+Multiplayer project developed with university teammates using FishNet networking. 
+Focused on systems-driven survival and atmospheric horror.
 
 Focus areas:
-- puzzle mechanics
-- surreal atmosphere
-- narrative driven environments
+- FishNet multiplayer networking
+- systems-driven survival gameplay
+- atmospheric horror design
+
+---
 
 ---
 
