@@ -2,8 +2,10 @@
 
 🎮 Game developer • 🎬 Video editor • 💻 Junior developer  
 
-Game Design Graduate
-Most of my work focuses on **indie game development, gameplay programming, and creative tech projects**.
+Game Design Graduate • Most of my work focuses on indie game development, 
+gameplay programming, and creative tech projects.
+
+Open to junior/graduate roles in the UK games industry.
 
 ---
 
@@ -13,7 +15,7 @@ Most of my work focuses on **indie game development, gameplay programming, and c
 Physics-based Plinko game with incremental mechanics, economy systems, and a minimal casino-style UI.
 
 Currently in active development — implementing ball physics, drop mechanics, and a custom analytics 
-system in Unity. Economy balancing tested via a Python probability simulator.
+system in Unity. Economy balancing is tested via a Python probability simulator.
 
 Focus areas:
 - ball physics & procedural drop mechanics
@@ -33,8 +35,6 @@ Focus areas:
 - FishNet multiplayer networking
 - systems-driven survival gameplay
 - atmospheric horror design
-
----
 
 ---
 
@@ -76,10 +76,8 @@ Focus areas:
 
 ---
 
-## 🚀 Goals
+## 🚀 2026 Goals
 
 - Launch **Pinfield**
-- Improve gameplay programming skills
-- Build tools that speed up creative workflows
 
 ---
